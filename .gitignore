@@ -1,0 +1,8 @@
+bin/
+.DS_Store
+__MACOSX/
+*.exe
+*.test
+*.out
+.idea/
+.vscode/
